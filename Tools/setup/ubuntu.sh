@@ -27,6 +27,7 @@ sudo apt-get -y --quiet --no-install-recommends install \
 	cmake \
 	curl \
 	default-jre-headless \
+	default-jdk-headless \
 	g++ \
 	gcc \
 	git \
